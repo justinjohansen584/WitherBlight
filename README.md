@@ -21,5 +21,6 @@ Plugins/Frameworks used
 - Gameplay Ability System or GAS
 - Chaos and FieldSystem
 - CommonUI
-  
-The project is still currently in active development. The current source control used is Diversion because of its simplicity and stability for a solo developer in UE5.
+
+The current source control being used is Diversion because of its simplicity and stability for a solo developer in UE5.
+The project is still currently in active development and has many WIP files and methods. 
